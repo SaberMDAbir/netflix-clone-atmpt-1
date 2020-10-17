@@ -35,6 +35,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 [View the demo on Imgur](https://imgur.com/AGdcFNl)
+<img src='https://imgur.com/AGdcFNl.gif' title="Video Walkthrough" alt="Video Walkthrough"/>
 
 <iframe src="https://giphy.com/embed/L9Qc4kxHwUrRdrt605" width="480" height="368" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/L9Qc4kxHwUrRdrt605">via GIPHY</a></p>
 
