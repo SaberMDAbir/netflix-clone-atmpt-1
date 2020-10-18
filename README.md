@@ -1,6 +1,6 @@
 # *NETFLIX CLONE*
 
-**Netflix-Clone** is an attempt to replicate Netflix using React. 
+**Netflix-Clone** is an attempt to replicate Netflix using React. This project was inpsired by Clever Programmers Tutorial. 
 Time spent: **8** hours spent in total
 #### [Live demo here](https://netflix-clone-atmpt.web.app/)
 
